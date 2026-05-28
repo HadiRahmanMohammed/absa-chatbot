@@ -1,6 +1,6 @@
 # ABSA Expert Chatbot — Assignment 3
 **Aspect-Based Sentiment Analysis of News Articles**
-Charles Darwin University — Bhandari, Patel, Rahaman Mohammed (2026)
+Charles Darwin University — Bhandari, Princy Patel, Rahaman Mohammed (2026)
 
 ---
 
