@@ -3,7 +3,5 @@ vaderSentiment>=3.3.2
 textblob>=0.17
 nltk>=3.8
 plotly>=5.18
-# Optional — only needed for URL fetching (Cell 44 of notebook)
-# newspaper3k>=0.2.8
-# Optional — only needed for LSA summarisation (Cell 18 of notebook)
-# sumy>=0.11
+google-genai>=1.0
+newspaper3k>=0.2.8
