@@ -512,7 +512,7 @@ with tab_chat:
     with col_chat:
         st.markdown("""
 <div class="page-header">
-  <div class="ph-icon">🧠</div>
+  <div class="ph-icon"></div>
   <div>
     <div class="ph-title">ABSA Expert Chatbot</div>
     <div class="ph-sub">Fake news detection · Aspect-based sentiment analysis · AI-powered</div>
