@@ -1,5 +1,5 @@
 """
-app.py — ABSA Expert Chatbot  v5  (Premium UI)
+app.py — Fake News Chatbot  v5  (Premium UI)
 Assignment 3 — Charles Darwin University (2026)
 Bhandari · Patel · Rahaman Mohammed
 """
