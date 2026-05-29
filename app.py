@@ -514,7 +514,7 @@ with tab_chat:
 <div class="page-header">
   <div class="ph-icon"></div>
   <div>
-    <div class="ph-title">ABSA Expert Chatbot</div>
+    <div class="ph-title">Fake News Chatbot</div>
     <div class="ph-sub">Fake news detection · Aspect-based sentiment analysis · AI-powered</div>
   </div>
   <div class="ph-pill"><div class="ph-dot"></div> Online</div>
